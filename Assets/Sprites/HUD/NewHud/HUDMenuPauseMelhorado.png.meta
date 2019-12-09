@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: c7677cacbfec8e24ebe703671b84f83b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -504877034331266876
+    second: HUDMenuPauseMelhorado_0
+  - first:
+      213: -1837784939052843351
+    second: HUDMenuPauseMelhorado_1
+  - first:
+      213: 3240994523397729853
+    second: HUDMenuPauseMelhorado_2
+  - first:
+      213: 9070118797714985598
+    second: HUDMenuPauseMelhorado_3
+  - first:
+      213: 2010636644877759798
+    second: HUDMenuPauseMelhorado_4
+  - first:
+      213: 5153980096849614589
+    second: HUDMenuPauseMelhorado_5
+  - first:
+      213: 5367273532455948403
+    second: HUDMenuPauseMelhorado_6
+  - first:
+      213: 6339896984164240877
+    second: HUDMenuPauseMelhorado_7
+  - first:
+      213: 8624815490773429402
+    second: HUDMenuPauseMelhorado_8
+  - first:
+      213: 1686863396698524739
+    second: HUDMenuPauseMelhorado_9
+  - first:
+      213: 6526883698160136160
+    second: HUDMenuPauseMelhorado_10
+  - first:
+      213: -647110870928764826
+    second: HUDMenuPauseMelhorado_11
+  - first:
+      213: -3972413296210104078
+    second: HUDMenuPauseMelhorado_12
+  - first:
+      213: -1402547941727819969
+    second: HUDMenuPauseMelhorado_13
+  - first:
+      213: -2360360932045674240
+    second: HUDMenuPauseMelhorado_14
+  - first:
+      213: 7399166007888227397
+    second: HUDMenuPauseMelhorado_15
+  - first:
+      213: -2941686439096894535
+    second: HUDMenuPauseMelhorado_16
+  - first:
+      213: -8453881767030459620
+    second: HUDMenuPauseMelhorado_17
+  - first:
+      213: -2299833439963197929
+    second: HUDMenuPauseMelhorado_18
+  - first:
+      213: 7496023383926366754
+    second: HUDMenuPauseMelhorado_19
+  - first:
+      213: -1438633281074039720
+    second: HUDMenuPauseMelhorado_20
+  - first:
+      213: -759450302320373771
+    second: HUDMenuPauseMelhorado_21
+  - first:
+      213: 1717691686630720902
+    second: HUDMenuPauseMelhorado_22
+  - first:
+      213: -4654309265747740287
+    second: HUDMenuPauseMelhorado_23
+  - first:
+      213: -1233194953058634892
+    second: HUDMenuPauseMelhorado_24
+  - first:
+      213: 4876421491922280069
+    second: HUDMenuPauseMelhorado_25
+  - first:
+      213: -7479792239176707825
+    second: HUDMenuPauseMelhorado_26
+  - first:
+      213: 1251073280591099519
+    second: HUDMenuPauseMelhorado_27
+  - first:
+      213: -2218985262944407784
+    second: HUDMenuPauseMelhorado_28
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1944
+        width: 564
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb012c5cec42d014292fde9f855f1932
+      internalID: -504877034331266876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_1
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1986
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967a6ea6a362216488616db8535c1558
+      internalID: -1837784939052843351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_2
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1984
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1bc1037ef4afd498f29a8453cba615
+      internalID: 3240994523397729853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_3
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1962
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3b57d1ce0bbd24cbce72958ce99678
+      internalID: 9070118797714985598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_4
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1960
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82580ded51dd9244e9b47ef293717240
+      internalID: 2010636644877759798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1824
+        width: 564
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0877dfe2859bfed4d84395c2ce31c96c
+      internalID: 5153980096849614589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_6
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1898
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bce5602f5964364aa8a109dbc94e91d
+      internalID: 5367273532455948403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_7
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1860
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1d121321b268445a3484410a528e5b
+      internalID: 6339896984164240877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_8
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1862
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09adc0bdc3f2e2146a6615aa4395e6ce
+      internalID: 8624815490773429402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1686
+        width: 564
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca206d9facd9cc54d96b2a3225a019a3
+      internalID: 1686863396698524739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_10
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1760
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb539454fd95554299f4062a87f667d
+      internalID: 6526883698160136160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_11
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1758
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4417fcb7799803448a8656988e0f6f56
+      internalID: -647110870928764826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1544
+        width: 564
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dd98c65e5afe44290ad003cecb127d
+      internalID: -3972413296210104078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_13
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1626
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f13469599f16d4685a3869714acda7
+      internalID: -1402547941727819969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_14
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1516
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12013645e81e4e94d905181c8ddc346a
+      internalID: -2360360932045674240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1409
+        width: 564
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd5684b51e86a344a8b1067b1de0d23
+      internalID: 7399166007888227397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_16
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1397
+        width: 225
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 7, z: 11, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d2df292976419468fb745d4ebea0be
+      internalID: -2941686439096894535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1264
+        width: 564
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fe34ae0b87cd04eabb0adbe498b66e
+      internalID: -8453881767030459620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_18
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1307
+        width: 225
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 7, z: 11, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7588828cef6c3a4c91a8840a9c5e72c
+      internalID: -2299833439963197929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_19
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1227
+        width: 225
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 7, z: 11, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bb222f8b53f5443bf8aa9d100df214
+      internalID: 7496023383926366754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1125
+        width: 564
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fdf6753b98ed64e9673622fd70251b
+      internalID: -1438633281074039720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 995
+        width: 564
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57b7dc64b526604f893aabb32045dc8
+      internalID: -759450302320373771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 855
+        width: 564
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f422e62e5740f8488d4f607117bc462
+      internalID: 1717691686630720902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_23
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 713
+        width: 564
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3008e676cc965a14887396ce53fdd753
+      internalID: -4654309265747740287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 571
+        width: 564
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6414b3ef4a1e14596aae9da249022c
+      internalID: -1233194953058634892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_25
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 433
+        width: 564
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912446004a091a7418cf0434701cbcb6
+      internalID: 4876421491922280069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_26
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 293
+        width: 564
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9905e7dd1b52bf248837435a26c2e679
+      internalID: -7479792239176707825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_27
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 162
+        width: 564
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4c3080dd7e639468dd84c447a5860c
+      internalID: 1251073280591099519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUDMenuPauseMelhorado_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 33
+        width: 564
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cbba95d9716e742b811e860478a25d
+      internalID: -2218985262944407784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3ecdc2ec72fee424cac2700311d6d0d1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
